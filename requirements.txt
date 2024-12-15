@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+schedule
+pytz
+pymongo
+emoji
+g4f
